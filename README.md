@@ -18,7 +18,7 @@
     <img src="assets/homePage.png" style="border-radius: 30px;padding:10px " width="200">
     <img src="assets/searchDetail.png" style="border-radius: 30px;padding:10px " width="200"><br>
     <img src="assets/searchFilter.png" style="border-radius: 30px;padding:10px " width="200">
-    <img src="assets/seachPage.png" style="border-radius: 30px;padding:10px " width="200"><br>
+    <img src="assets/searchPage.png" style="border-radius: 30px;padding:10px " width="200"><br>
     <img src="assets/TodoTask.png" style="border-radius: 30px;padding:10px " width="200">
    
     
